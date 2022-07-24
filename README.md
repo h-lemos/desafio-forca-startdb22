@@ -15,4 +15,4 @@ No desafio fomos testados a implementar certas regras de lógica em um jogo da f
 8. Caso a quantidade de vidas chegue a 0 (zero), o estado do jogo deve mudar para perdeu.
 9. Caso a quantidade de vidas seja maior que zero e o jogador acerte a última letra, o estado do jogo deve mudar para ganhou.
 
-Agradeço a atenção.s
+Agradeço a atenção.
